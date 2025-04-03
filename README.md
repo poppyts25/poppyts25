@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Poppy Sessions
 🚀 **Final Year BSc Computer Science Student** at The University of Exeter  
 🌍 Passionate about data analysis, algorithms, and creating meaningful applications  
-📌 Currently working on **15-Minute-Cities**, analyzing global accessibility
+📌 Currently working on **15-Minute-Cities**, analyzing global accessibility to amenities
 
 ---
 
